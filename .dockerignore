@@ -1,0 +1,8 @@
+app/charzweb/node_modules
+app/charzweb/dist
+app/charzweb/.git
+app/charzweb/.gitignore
+app/charzweb/npm-debug.log
+app/charzweb/.DS_Store
+app/charzweb/.env.local
+app/charzweb/.env.*.local
